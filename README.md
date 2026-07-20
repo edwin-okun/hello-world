@@ -1,3 +1,3 @@
-"Hello World"
+Hello World
 
-"I am learning to use git"
+I am learning to use git
